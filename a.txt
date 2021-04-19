@@ -2,8 +2,5 @@ aaaaaaa
 bbbbbbb
 cccccccc
 dddddd
-<<<<<<< HEAD
 vvvvvvv
-=======
 gggggggg
->>>>>>> issue
